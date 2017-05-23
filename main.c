@@ -2,8 +2,7 @@
 
 int add(int a, int b)
 {
-    printf("TODO: add\n");
-    return -1;
+    return a + b;
 }
 
 int sub(int a, int b)
